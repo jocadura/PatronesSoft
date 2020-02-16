@@ -1,5 +1,6 @@
 /**
  * Clase principal que consume el patrón propuesto.
+ * Prueba
  * @author JC
  *
  */
@@ -7,7 +8,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		
-		 System.out.println ("MARCADOR ACB");
+		 System.out.println ("MARCADOR ACB PRUEBA DE SUBIDA");
 		 System.out.println ("***************************************************");
 		 //Creamos un partido
 		 Partido partido = new Partido();
