@@ -1,8 +1,8 @@
 /**
  * Guarda el estado interno del ORIGINADOR (Partido)
- * El ORIGINADOR determina los datos a guardar en el MEMENTO y solo el 
+ * El ORIGINADOR determina los datos a guardar en el MEMENTO solo el 
  * ORIGINADOR debe ser capaz de leer el MEMENTO.
- * Usa el MEMENTO para volver a su estado anterior
+ * Usa el MEMENTO para volver a su estado anterior.
  * @author JC
  *
  */
